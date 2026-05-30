@@ -19,3 +19,6 @@ from static systems → to behavior-weighted, predictive governance layers.
 - **historical-context.md** — Narrative explaining how the field evolved around the 2003 primitives.
 
 This folder is part of the broader 2003 → 2026 governance-layer lineage.
+The 2003 primitives (US 2004/0133469) introduced temporal scoring and behavior-weighted allocation. 
+Later filings (20260070215, 20260127578) extend this lineage into agentic AI governance, provenance, 
+and predictive compliance.
