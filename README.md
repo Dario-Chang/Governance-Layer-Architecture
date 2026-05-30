@@ -3,6 +3,10 @@ Two-decade governance-layer architecture for agentic AI, provenance, predictive 
 # Governance-Layer Architecture for Agentic AI  
 ### 2003 → 2026 Lineage, Primitives, and Regulatory Interface Frameworks  
 By Dario Chang
+## Published Patents (2003 → 2026)
+- 2004/0133469 — Temporal Reputation Scoring (Cycle Hit Programming + Hit History Score)
+- 20260070215 — Emotion-Aware Cognitive OS
+- 20260127578 — Provenance & Monetization Platform for Agentic AI
 
 This repository documents a two-decade evolution of governance-layer primitives for systems that allocate attention, resources, or agency. It traces the continuity from my 2003 temporal-reputation scoring work to my 2025–2026 published filings on agentic AI, provenance, predictive compliance, and regulator-visible oversight.
 
