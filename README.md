@@ -7,7 +7,9 @@
 ## ⚖️ Legal & IP Notice
 
 This repository provides architectural context and historical lineage regarding the author's work in behavioral-governance primitives. It does **not** constitute an enabling technical disclosure for any pending patent applications. The 2026 architectures (including USTO and EPO EP26188264.1, EP26188282.3, and related filings) represent **novel, non-obvious advancements** in autonomous system governance that differ fundamentally in scope and function from the 2003 prior art.
+Scope of Conceptual Disclosure
 
+This publication establishes the complete architectural and topological framework for the governance‑layer substrate. It explicitly defines the interactions, state transitions, and conceptual boundaries of the system. To protect proprietary trade secrets, this document omits localized execution mechanics (e.g., specific algorithms, dynamic weighting functions, and cryptographic token schemas). This disclosure establishes the state of the art for the architecture itself, independent of any specific computational embodiment.
 ---
 
 ## Overview
